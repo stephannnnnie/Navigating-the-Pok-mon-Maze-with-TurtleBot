@@ -13,10 +13,15 @@ automatic control. Then grab some Pokemon (save some Pokemon images on your comp
 
 ## 2. Tasks to do
 (1) set up the maze and turtlebot in Gazebo
+
 (2) let the turtlebot automatically explore the maze, find the exit, and get out of the maze
+
 (3) keep a certain distance and angle to catch a Pokemon (If we can keep a Pokemon in the center of the red rectangle and fit the size well, it will be easily caught)
+
 (4) do the above tasks as quickly as possible! (3 min or less!)
+
 (5) catch as much Pokemon as possible! (6 or more!)
+
 (6) bonus: if possible, use multiple turtlebots to complete the tasks.
 
 ## 3. environment
